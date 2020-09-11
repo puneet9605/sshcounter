@@ -1,0 +1,5 @@
+SCP the sshcounter_client.sh file to the machine that we want to monitor
+
+Run the command after replacing the /path/to/ with the correct path
+
+echo '/path/to/sshcounter_client.sh' >>/root/.bashrc
